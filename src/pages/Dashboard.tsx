@@ -77,7 +77,7 @@ const Dashboard: React.FC = () => {
       {/* <div className="flex flex-col md:flex-row items-start w-full bg-purple-50 rounded-lg shadow-lg p-3 sm:p-4 md:p-8 mt-6 sm:mt-10"> */}
       <div className="flex flex-col md:flex-row items-start w-full bg-purple-50 rounded-lg shadow-lg p-6 md:p-8 mt-10">
         {/* Left Column - Text Content */}
-        <div className="w-full md:w-1/2 mb-4 md:mb-0">
+        <div className="w-full md:w-1/2 mb-4 md:mb-0 md:mr-10">
           <h2 className="text-base sm:text-lg md:text-2xl font-semibold text-purple-700 mb-2">Profil <span className="italic">Teta Nikmat</span></h2>
           <p className="text-xs sm:text-sm md:text-base text-gray-700 mb-2 sm:mb-4 text-justify">
             Didirikan pada tahun 2010 oleh <b>Hj. Rosita, SP</b>, Teta Catering tumbuh sebagai perusahaan katering terpercaya.

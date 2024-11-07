@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
                         <MdPhone className="mr-2" /> +62 123-456-789
                     </p>
                     <p className="text-gray-300 flex items-center mt-2">
-                        <MdEmail className="mr-2" /> info@dyummycatering.com
+                        <MdEmail className="mr-2" /> info@tetanikmat.com
                     </p>
                 </div>
 
